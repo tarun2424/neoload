@@ -1,0 +1,17 @@
+# Project description file
+
+project.name=neoload
+project.version=8.9
+project.original.version=8.9
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+product.original.version=2024.1.0
+project.is-open-test-settings-after-upload=false
+project.id=9577d2eb-1036-46a6-b3a6-4ca7d4578a99
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+product.version=2024.1.0
+team.server.project=/tarun2424/neoload.git
